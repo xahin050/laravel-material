@@ -1,6 +1,6 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
+    "name": "nazmulpcc/laravel-material",
+    "description": "The Laravel Framework with Material Boilerplate",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "type": "project",
